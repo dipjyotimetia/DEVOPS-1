@@ -64,9 +64,7 @@ Blog: www.socializedsoftware.com
 Mark is the Senior Director of Open Source Solutions at Citrix. He tweets and blogs about Open Source, Cloud Computing, DevOps, and Systems Management.
 
  
-
-Damon Edwards
-
+(8)
 DamonEdwards
 
 Twitter: @damonedwards
@@ -76,9 +74,7 @@ Blog: http://dev2ops.org/
 Damon is the co-founder of DTO Solutions, a frequent conference speaker and a contributor to the dev2ops.org blog. He focuses on DevOps and operational process topics for software-as-a-service, e-commerce, and cloud businesses.
 
  
-
-Marten Mickos
-
+(9)
 MartenMickos
 
 Twitter: @MartenMickos
@@ -89,8 +85,7 @@ Marten is the CEO of Eucalyptus and former CEO of MySQL. Read his blog and twitt
 
  
 
-Stephen Nelson-Smith
-
+(10)
 StephenNelsonSmith
 
 Twitter: @Lordcope
@@ -100,9 +95,7 @@ Stephen is the co-founder of Atalanta Systems, a seasoned UNIX and Linux system 
 
  
 
-Kevin Behr
-
-KevinBehr
+(11)KevinBehr
 
 Twitter: @KevinBehr
 
