@@ -2,14 +2,16 @@
 
 top devops blogs to follow:
 
-(1)Twitter: @adrianco
+(1)
+Twitter: @adrianco
 
 Blog: http://perfcap.blogspot.com/
 
 A Technology Fellow at Battery Ventures, Adrian is a Netflix alum and an expert in all things cloud. He’s an avid retweeter and you’ll find a mix of topics on his blog and twitter feed, from cloud conferences to craft beer to new technologies.
 
 
-(2)John Allspaw
+(2)
+John Allspaw
 
 Twitter: @allspaw
 
@@ -17,7 +19,8 @@ Blog: http://www.kitchensoap.com/
 
 John is SVP Tech Operations at Etsy. His blog includes thoughts on systems safety, capacity planning, and web operations and he tweets interesting stuff from around the web on these topics.
 
-(3)JoeMckendrick
+(3)
+JoeMckendrick
 
 Twitter: @joemckendrick
 
@@ -25,7 +28,8 @@ Blog: Contributes to Forbes
 
 Joe is an analyst and contributor at CBS interactive and Forbes. He writes about cloud computing and IT and tweets often about these topics.
 
-(4)SeanHull
+(4)
+SeanHull
 
 Twitter: @hullsean
 
@@ -33,7 +37,8 @@ Blog: http://www.iheavy.com/blog/
 
 Sean is one of the most followed influencers on this list. He blogs often, offering sound advice on a range of cloud, DevOps and tech topics.
 
-(5)GeneKim
+(5)
+GeneKim
 
 Twitter: @RealGeneKim
 
@@ -103,6 +108,7 @@ Blog: http://www.kevinbehr.com/
 
 Kevin is the Chief Science Officer at Praxis Flow. His blog is not entirely up to date but you can find some interesting tidbits about DevOps, infrastructure, data and cloud in his Twitter feed.
 
+(12)
 Julian Simpson
 
  BuildDoctor
@@ -115,7 +121,8 @@ Julian, aka the Build Doctor, works for Neo Technology and is an expert in DevOp
 
  
 
-Xavier Amatriain
+(13
+)Xavier Amatriain
 
 Xavier
 
@@ -127,6 +134,7 @@ Xavier is a director at Netflix who tweets and blogs about recommender systems, 
 
  
 
+(14)
 Elisabeth Hendrickson
 
 Testobsessed
@@ -137,6 +145,7 @@ Blog: http://testobsessed.com/
 
 Elisabeth is an author and consultant working on Cloudfoundry.  She tweets and blogs about test automation, Exploratory testing, and Agile development.
 
+(15)
 Dominica DeGrandis
 
 dominicad
@@ -147,6 +156,7 @@ Blog: http://www.ddegrandis.com/blog
 
 Dominica teaches Kanban to DevOps enthusiasts, meaning she uses Kanban boards – visual process management systems – to integrate the flow of work from Dev to IT Operations. Her blog includes thoughtful learnings from training classes she teaches as well as takeaways from books she reads and events or talks she attends.
 
+(16)
 Alison Gianotto
 
 Snipe
@@ -157,6 +167,7 @@ Blog: http://www.snipe.net/
 
 Alison is currently the CTO/CSO of a business innovation agency in NYC and has a huge online following. She gives an entertaining warning about following her on Twitter, as her feed is not always industry related and often NSFW, but she does put out a lot of great content about DevOps, software, web dev and tech in general.
 
+(17)
 Liz Keogh
 
 LizK
@@ -167,6 +178,8 @@ Blog: http://lizkeogh.com/
 
 Liz is a Lean / Agile consultant who blogs and tweets about everything from continuous delivery to BDD to poetry.
 
+
+18)
 Jabe Bloom
 
 JabeBloom
@@ -177,6 +190,8 @@ Blog: http://blog.jabebloom.com/
 
 Jabe tweets and blogs about innovation and process management, lean UX and development, and a range of things under the tech umbrella aimed at solving “strange problems.”
 
+
+(19)
 Sascha Bates
 
 Sascha_d
@@ -187,6 +202,7 @@ Blog: http://blog.brattyredhead.com/
 
 Sascha is a consultant for Chef. Her blog has some thoughtful posts on topics including Ruby, women in tech, DevOps and more, and her Twitter feed is full of humorous quips about these topics.
 
+(20)
 Mandi Walls
 
 MandiWalls
