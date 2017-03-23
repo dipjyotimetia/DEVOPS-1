@@ -1,6 +1,4 @@
-# DEVOPS
 
-https://devopscube.com/
 
 top devops blogs to follow:
 
@@ -45,8 +43,7 @@ Gene is a self-proclaimed DevOps enthusiast, and a top expert in our eyes. His b
 
  
 
-Andrew Hay
-
+(6)
 AndrewHay
 
 Twitter: @andrewsmhay
@@ -57,8 +54,7 @@ Andrew is a security professional, author and cloud expert. Follow his blog and 
 
  
 
-Mark R. Hinkle
-
+(7)
 MarkHinkle
 
 Twitter: @mrhinkle
